@@ -53,5 +53,3 @@ if __name__ == '__main__':
 	td = td(t_min, t_max, t_air)
 	c = Lr(td,td_lag,k_rz,t_min,t_max,Rz_min,Rz_max)
 	print (a)
-	print (td)
-	print (c)
